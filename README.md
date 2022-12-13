@@ -5,6 +5,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/caio01/Estudos-DesenvWeb/blob/master/LICENSE)
 
 # Sobre o projeto
+Publicado em: https://caio01.github.io/Estudos-DesenvWeb
 
 Esse projeto está sendo devolvido juntamente com um grupo de amigos que estão iniciando na programação, com o intuito de ajudá-los, colocando em prática conceitos simples do Desenvolvimento Web.
 
