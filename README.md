@@ -1,5 +1,8 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+
 # Estudos-DesenvWeb
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/caio01/Estudos-DesenvWeb/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/caio01/Estudos-DesenvWeb/blob/master/LICENSE)
 
 # Sobre o projeto
 
